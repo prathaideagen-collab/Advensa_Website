@@ -143,25 +143,25 @@ export default function EverestBaseCampTrek() {
             <div className="flex items-start gap-3">
               
               <span className="text-sm md:text-base">
-               🍽️&nbsp; All meals, flights & permits included
+               🍽️ All meals, flights & permits included
               </span>
             </div>
             <div className="flex items-start gap-3">
               
               <span className="text-sm md:text-base">
-                🧳&nbsp; Flexible departure dates
+                🧳Flexible departure dates
               </span>
             </div>
             <div className="flex items-start gap-3">
             
               <span className="text-sm md:text-base">
-                ⛰️&nbsp; Daily guided treks with expert sherpas
+                ⛰️ Daily guided treks with expert sherpas
               </span>
             </div>
             <div className="flex items-start gap-3">
              
               <span className="text-sm md:text-base">
-                ✈️&nbsp; Free airport transfers in Kathmandu
+                ✈️ Free airport transfers in Kathmandu
               </span>
             </div>
           </div>
