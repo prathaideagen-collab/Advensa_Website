@@ -261,7 +261,7 @@ export default function EverestBaseCampTrek() {
 
 
                     <img
-                      src="/img1.png"
+                      src="/img1.jpg"
                       alt="Farzad Mesri"
                       className="w-full h-full object-cover"
                     />
@@ -303,7 +303,7 @@ export default function EverestBaseCampTrek() {
 
 
                     <img
-                      src="/img1.png"
+                      src="/img1.jpg"
                       alt="Farzad Mesri"
                       className="w-full h-full object-cover"
                     />
@@ -343,7 +343,7 @@ export default function EverestBaseCampTrek() {
 
 
                     <img
-                      src="/img1.png"
+                      src="/img1.jpg"
                       alt="Farzad Mesri"
                       className="w-full h-full object-cover"
                     />
