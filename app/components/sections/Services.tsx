@@ -10,40 +10,40 @@ export default function Services() {
         
 
 {/* Quick Highlights Section */}
-        
-          <div className="font-bold mb-15">
-            <h2 className="text-5xl bg-gradient-to-r from-red-500 to-green-800 bg-clip-text text-transparent">
-              <span className="bg-gradient-to-r from-red-500 to-orange-900 bg-clip-text text-transparent font-bold">
-               <span className=" bg-amber-300 bg-clip-text text-transparent"> 🌟</span> Quick{" "}
-              </span>
-              <span className="bg-gradient-to-r from-orange-900 to-green-700 bg-clip-text text-transparent font-bold">
-                Highlights
-              </span>
-            </h2>
-          </div>
+<div className="font-bold mb-15">
+  <h2 className="text-5xl bg-gradient-to-r from-red-500 to-green-800 bg-clip-text text-transparent">
+    <span className="bg-gradient-to-r from-red-500 to-orange-900 bg-clip-text text-transparent font-bold">
+      <span className=" bg-amber-300 bg-clip-text text-transparent"> 🌟</span> Quick{" "}
+    </span>
+    <span className="bg-gradient-to-r from-orange-900 to-green-700 bg-clip-text text-transparent font-bold">
+      Highlights
+    </span>
+  </h2>
+</div>
+
 <div className="grid grid-cols-2 gap-7">
-  
   <div className="flex items-start gap-3">
-    <span className="text-sm md:text-base">
+    <span className="text-xs sm:text-sm md:text-base lg:whitespace-nowrap">
       ⛰️ <span className="font-bold">Trek with the Best</span> – World-class Sherpas leading every step.
     </span>
   </div>
   <div className="flex items-start gap-3">
-    <span className="text-sm md:text-base whitespace-nowrap">
+    <span className="text-xs sm:text-sm md:text-base lg:whitespace-nowrap">
       🛎️ <span className="font-bold">All-Inclusive Peace of Mind</span> – Meals, hotels, permits, visa, insurance & more.
     </span>
   </div>
   <div className="flex items-start gap-3">
-    <span className="text-sm md:text-base">
+    <span className="text-xs sm:text-sm md:text-base lg:whitespace-nowrap">
       🗓️ <span className="font-bold">Your Dates, Your Journey</span> – Flexible departures, your schedule.
     </span>
   </div>
   <div className="flex items-start gap-3">
-    <span className="text-sm md:text-base whitespace-nowrap">
+    <span className="text-xs sm:text-sm md:text-base lg:whitespace-nowrap">
       💯 <span className="font-bold">100% Trusted Company</span> – We deliver on promises and make your dreams real.
     </span>
   </div>
 </div>
+
 
 
         {/* Itinerary & Pricing Section */}

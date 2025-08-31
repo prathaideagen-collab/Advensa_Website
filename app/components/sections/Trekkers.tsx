@@ -53,9 +53,9 @@ export default function Trekkers() {
 
 
                     <img
-                      src="/img1.jpg"
+                      src="/trek1.png"
                       alt="Farzad Mesri"
-                      className="w-full h-full object-cover"
+                      className="w-full h-full object-cover object-center"
                     />
 
 
@@ -95,9 +95,9 @@ export default function Trekkers() {
 
 
                     <img
-                      src="/img1.jpg"
+                      src="/trek2.png"
                       alt="Farzad Mesri"
-                      className="w-full h-full object-cover"
+                      className="w-full h-full object-cover object-center" 
                     />
 
 
@@ -135,9 +135,9 @@ export default function Trekkers() {
 
 
                     <img
-                      src="/img1.jpg"
+                      src="/trek3.png"
                       alt="Farzad Mesri"
-                      className="w-full h-full object-cover"
+                      className="w-full h-full object-cover object-center"
                     />
 
 

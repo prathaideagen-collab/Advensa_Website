@@ -93,7 +93,7 @@ export default function EverestBaseCampTrek() {
           <div className="flex flex-col sm:flex-row items-center text-center sm:text-left min-w-[80px]">
             <span className="text-yellow-500 text-lg sm:mr-2">⭐</span>
             <div className="flex flex-col sm:flex-row items-center">
-              <span className="text-sm md:text-base font-semibold">5</span>
+              <span className="text-sm md:text-base font-semibold">5.0</span>
               <a
                 href="https://www.google.com/search?sca_esv=e2d404020a096c28&sxsrf=AE3TifPrGaPzQNw1h53HJPIEOtN1mAurgQ:1756551029727&si=AMgyJEtREmoPL4P1I5IDCfuA8gybfVI2d5Uj7QMwYCZHKDZ-EykOy1OYJxQ0zC9848IqiGe33Lw78nS6HAmlg-i_fDC2OKUg7Fx3zfiH2fcRlwV9U9PlgNqGtx-dm6jQjTiuyxdqrmaQ&q=Advensa+Travel+Reviews&sa=X&ved=2ahUKEwi8oqDBrrKPAxWUzDgGHe3-D7YQ0bkNegQIIxAE&biw=1536&bih=791&dpr=1.25"
                 rel="review"
