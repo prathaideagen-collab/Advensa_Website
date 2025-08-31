@@ -4,7 +4,8 @@ export default function Footer() {
   return (
     <footer className="bg-gray-50 py-9">
       <div className="max-w-6xl mx-auto px-1">
-        <div className="grid lg:grid-cols-3 gap-8 mb-10">
+        <div className="grid lg:grid-cols-3 gap-8 mb-10 justify-items-center text-center lg:text-left">
+
           
           {/* Logo and Description */}
           <div className="space-y-4">
