@@ -10,17 +10,14 @@ export default function Footer() {
           <div className="space-y-4">
             <div className="flex items-center">
               
-                <div className="w-22 h-22 rounded-full overflow-hidden bg-gray-200 flex-shrink-0">
+           <div className="w-24 aspect-square rounded-full overflow-hidden bg-gray-50">
+  <img
+    src="/advensapic.png"
+    alt="advensa"
+    className="w-full h-full object-cover"
+  />
+</div>
 
-
-                    <img
-                      src="/advensapic.jpg"
-                      alt="advensa"
-                      className="w-full h-full object-cover"
-                    />
-
-
-                  </div>
 
             </div>
             <p className="text-gray-600 max-w-xs leading-relaxed text-sm">

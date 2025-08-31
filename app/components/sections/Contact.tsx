@@ -28,7 +28,7 @@ export default function Contact() {
       .send(
         "service_5nx1o9a", 
         "template_6h48wbj", 
-        formData,
+        templateParams,
         "-YSVUSfcHoUwhl_Oi" 
       )
       .then(

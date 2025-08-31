@@ -18,9 +18,11 @@ export default function Trip() {
                 Trip Today
               </span>
             </h2>
+              <a href="https://wa.me/61430046850?text=Hello%2C%20I%20am%20interested">
             <button className="px-12 py-4 bg-gradient-to-b from-red-600 to-green-600 text-white font-semibold rounded-lg shadow-lg hover:scale-105 transform transition-all duration-200">
               Enquire Now
             </button>
+            </a>
           </div>
         </div>
     
