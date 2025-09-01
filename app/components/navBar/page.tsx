@@ -37,20 +37,34 @@ export default function Navbar() {
         <div className="hidden md:flex items-center gap-6 lg:gap-8">
           <Link
             href="/#treks"
-            className="text-sm font-medium text-black hover:text-blue-600"
+          className="relative text-sm font-medium text-black transition-colors duration-300
+           hover:text-red-600 after:absolute after:left-0 after:bottom-[-4px] 
+           after:h-[2px] after:w-0 after:transition-all after:duration-300 
+           hover:after:w-full after:bg-gradient-to-r after:from-red-600 after:to-green-700"
+
           >
             Treks
           </Link>
           <Link
             href="/#services"
-            className="text-sm font-medium text-black hover:text-blue-600"
+          className="relative text-sm font-medium text-black transition-colors duration-300
+           hover:text-red-600 after:absolute after:left-0 after:bottom-[-4px] 
+           after:h-[2px] after:w-0 after:transition-all after:duration-300 
+           hover:after:w-full after:bg-gradient-to-r after:from-red-600 after:to-green-700"
+
+
           >
             Services
           </Link>
           <Link
             href="/#contact"
-            className="text-sm font-medium text-black hover:text-blue-600"
+       className="relative text-sm font-medium text-black transition-colors duration-300
+           hover:text-red-600 after:absolute after:left-0 after:bottom-[-4px] 
+           after:h-[2px] after:w-0 after:transition-all after:duration-300 
+           hover:after:w-full after:bg-gradient-to-r after:from-red-600 after:to-green-700"
+
           >
+          
             Contact
           </Link>
           <ButtonComponent />
