@@ -3,7 +3,8 @@ export default function WhatsappButton() {
     <a
       href="https://wa.me/61430046850?text=Hello%2C%20I%20am%20interested" 
       rel="noopener noreferrer"
-      className="fixed bottom-6 right-6 bg-gradient-to-r from-red-500 to-green-700 p-3 rounded-full shadow-lg hover:bg-green-600 transition-colors duration-300 z-50"
+      className="fixed bottom-6 right-6 bg-gradient-to-r from-red-500 to-green-700 p-3 rounded-full shadow-lg 
+                 hover:bg-green-600 transform hover:scale-110 transition-all duration-300 z-50"
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"
