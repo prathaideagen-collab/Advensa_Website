@@ -18,9 +18,9 @@ export default function Navbar() {
 
   return (
     <nav
-      className={`fixed top-0 w-full z-50 transition-all duration-300 border-b border-white/20
-      ${scrolled ? "bg-white/30 backdrop-blur-md" : "bg-transparent"}`}
-    >
+  className={`fixed top-0 w-full z-50 transition-all duration-300 border-b border-white/20 bg-transparent`}
+>
+
       <div className="flex justify-between items-center px-3 py-2 md:px-6">
         {/* Logo */}
         <div className="flex items-center">
@@ -28,7 +28,7 @@ export default function Navbar() {
             <img
               src="/advensapic.png"
               alt="Logo"
-              className="w-10 h-10 md:w-16 md:h-16 object-contain cursor-pointer rounded-full bg-transparent"
+              className="w-15 h-15 md:w-16 md:h-16 object-contain cursor-pointer rounded-full bg-transparent"
             />
           </Link>
         </div>
