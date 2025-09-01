@@ -58,9 +58,9 @@ export default function Footer() {
           </div>
 
           {/* Connect With Us */}
-          <div>
+          <div >
             <h3 className="text-gray-800 font-semibold text-lg mb-4">Connect With Us</h3>
-            <div className="flex gap-1">
+            <div className="flex items-center justify-center gap-1">
               {/* Facebook */}
               <a 
                 href="https://www.facebook.com/profile.php?id=61569099300072" 
