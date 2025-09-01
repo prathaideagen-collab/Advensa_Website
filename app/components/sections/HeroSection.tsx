@@ -45,7 +45,7 @@ export default function EverestBaseCampTrek() {
           {/* Buttons */}
           <div className="flex flex-wrap gap-4 justify-center sm:justify-start items-center mb-12">
             <a href="https://wa.me/61430046850?text=Hello%2C%20I%20am%20interested">
-              <button className="px-4 sm:px-6 py-2 sm:py-3.5 bg-gradient-to-b from-red-600 to-green-600 text-white font-semibold rounded-lg shadow-lg hover:scale-105 transform transition-all duration-200 flex items-center justify-center gap-2 text-sm sm:text-base">
+              <button className="px-4 sm:px-6 py-2.5 sm:py-3.5 bg-gradient-to-b from-red-600 to-green-600 text-white font-semibold rounded-lg shadow-lg hover:scale-105 transform transition-all duration-200 flex items-center justify-center gap-2 text-sm sm:text-base">
                 Enquire on WhatsApp
               </button>
             </a>

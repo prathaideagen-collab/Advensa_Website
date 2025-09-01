@@ -78,7 +78,7 @@ export default function Services() {
 
               <a href="https://wa.me/61430046850?text=Hello%2C%20I%20am%20interested">
 
-                  <button className="px-8 sm:px-6 py-4 sm:py-3 text-red-600 font-semibold rounded-lg border-2 border-red-600 hover:bg-red-600 hover:text-white shadow-lg hover:scale-105 transform transition-all duration-200 flex items-center justify-center gap-2 text-sm sm:text-base">
+                  <button className="px-8.5 sm:px-6 py-4 sm:py-3 text-red-600 font-semibold rounded-lg border-2 border-red-600 hover:bg-red-600 hover:text-white shadow-lg hover:scale-105 transform transition-all duration-200 flex items-center justify-center gap-2 text-sm sm:text-base">
                     Enquire now
                   </button>
                 </a>
@@ -105,7 +105,7 @@ export default function Services() {
 
                <a href="https://wa.me/61430046850?text=Hello%2C%20I%20am%20interested">
 
-                  <button className="px-8 sm:px-6 py-4 sm:py-3 text-red-600 font-semibold rounded-lg border-2 border-red-600 hover:bg-red-600 hover:text-white shadow-lg hover:scale-105 transform transition-all duration-200 flex items-center justify-center gap-2 text-sm sm:text-base">
+                  <button className="px-8.5 sm:px-6 py-4 sm:py-3 text-red-600 font-semibold rounded-lg border-2 border-red-600 hover:bg-red-600 hover:text-white shadow-lg hover:scale-105 transform transition-all duration-200 flex items-center justify-center gap-2 text-sm sm:text-base">
                     Enquire now
                   </button>
                 </a>
@@ -132,7 +132,7 @@ export default function Services() {
 
                 <a href="https://wa.me/61430046850?text=Hello%2C%20I%20am%20interested">
 
-                  <button className="px-8 sm:px-6 py-4 sm:py-3 text-red-600 font-semibold rounded-lg border-2 border-red-600 hover:bg-red-600 hover:text-white shadow-lg hover:scale-105 transform transition-all duration-200 flex items-center justify-center gap-2 text-sm sm:text-base">
+                  <button className="px-8.5 sm:px-6 py-4 sm:py-3 text-red-600 font-semibold rounded-lg border-2 border-red-600 hover:bg-red-600 hover:text-white shadow-lg hover:scale-105 transform transition-all duration-200 flex items-center justify-center gap-2 text-sm sm:text-base">
                     Enquire now
                   </button>
                 </a>
