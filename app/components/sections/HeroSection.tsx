@@ -23,7 +23,7 @@ export default function EverestBaseCampTrek() {
       className="flex flex-col items-center justify-center px-4 py-20 bg-gradient-to-br from-purple-100 via-blue-200 to-green-100 text-black"
     >
       <div className="max-w-6xl w-full mx-auto">
-        {/* Header Section */}
+       
         <div className="text-left mb-12">
           <h1 className="text-4xl lg:text-6xl font-bold leading-tight mb-4">
             14-Day{" "}
