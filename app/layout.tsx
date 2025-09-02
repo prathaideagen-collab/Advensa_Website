@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Advensa",
-  description: "Advensa",
+  title: "Advensa Special Offer",
+  description: "Advensa Special Offer",
 };
 
 export default function RootLayout({
