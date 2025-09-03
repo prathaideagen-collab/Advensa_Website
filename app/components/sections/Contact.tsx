@@ -19,17 +19,17 @@ export default function Contact() {
   const sendEmail = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
 
-       const templateParams = {
+    const templateParams = {
       ...formData,
       reply_to: formData.user_email, // this is the visitor's email
     };
 
     emailjs
       .send(
-        "service_5nx1o9a", 
-        "template_6h48wbj", 
+        "service_5nx1o9a",
+        "template_6h48wbj",
         templateParams,
-        "-YSVUSfcHoUwhl_Oi" 
+        "-YSVUSfcHoUwhl_Oi"
       )
       .then(
         () => {
@@ -102,7 +102,11 @@ export default function Contact() {
                     <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.89 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z" />
                   </svg>
                 </div>
-                <h4 className="text-l font-bold text-gray-800 mb-2">info@advensatravel.com</h4>
+                <h4 className="text-l font-bold text-gray-800 mb-2">
+                  <a href="mailto:info@advensatravel.com" className="hover:text-red-600 transition-colors">
+                    info@advensatravel.com
+                  </a>
+                </h4>
                 <p className="text-gray-600 text-sm">Quick Response</p>
               </div>
 
