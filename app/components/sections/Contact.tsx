@@ -54,7 +54,7 @@ export default function Contact() {
       className="min-h-screen flex items-center justify-center px-4 py-10 bg-gradient-to-br from-blue-50 via-blue-100 to-green-100 text-black"
     >
       <div className="max-w-6xl mx-auto w-full">
-        <div className="mb-14">
+        <div >
           <div className="text-center mb-20">
             <h2 className="text-5xl font-bold mb-6">
               <span className="bg-gradient-to-r from-red-600 to-orange-900 bg-clip-text text-transparent">
