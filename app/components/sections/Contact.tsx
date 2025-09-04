@@ -21,7 +21,7 @@ export default function Contact() {
 
     const templateParams = {
       ...formData,
-      reply_to: formData.user_email, // this is the visitor's email
+      reply_to: formData.user_email, //  visitor's email
     };
 
     emailjs
@@ -51,7 +51,7 @@ export default function Contact() {
   return (
     <section
       id="contact"
-      className="min-h-screen flex items-center justify-center px-4 py-20 bg-gradient-to-br from-blue-50 via-blue-100 to-green-100 text-black"
+      className="min-h-screen flex items-center justify-center px-4 py-10 bg-gradient-to-br from-blue-50 via-blue-100 to-green-100 text-black"
     >
       <div className="max-w-6xl mx-auto w-full">
         <div className="mb-14">

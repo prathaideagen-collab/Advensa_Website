@@ -4,7 +4,7 @@ export default function Services() {
   return (
     <section
       id="services"
-      className=" flex items-center justify-center px-4 py-20 bg-gradient-to-br from-blue-50 via-blue-100 to-green-100 text-black"
+      className=" flex items-center justify-center px-4 py-10 bg-gradient-to-br from-blue-50 via-blue-100 to-green-100 text-black"
     >
       <div className="max-w-6xl mx-auto w-full">
 
@@ -48,7 +48,7 @@ export default function Services() {
 
         {/* Itinerary & Pricing Section */}
 
-        <h2 className="text-5xl font-bold mt-30 mb-15">
+        <h2 className="text-5xl font-bold mt-20 mb-15">
           <span className="bg-gradient-to-r from-red-500 to-orange-900 bg-clip-text text-transparent font-bold">
             Itinerary{" "}
           </span>
@@ -69,18 +69,20 @@ export default function Services() {
               <div className="text-2xl font-bold text-gray-800 mb-4">AUD 2900</div>
 
 
-              <div className="flex flex-col sm:flex-row justify-center gap-3 mt-5 mb-4">
+              <div className="flex flex-wrap justify-center gap-3 mt-5 mb-4 w-full">
+
                 <a href="https://advensatravel.com/package/14-days-everest-base-camp-trek-deluxe">
                   <button className="px-8  sm:px-6 py-4 sm:py-3.5 bg-gradient-to-b from-red-600 to-green-600 text-white font-semibold rounded-lg shadow-lg hover:scale-105 transform transition-all duration-200 whitespace-nowrap">
                     View details
                   </button>
                 </a>
 
-              <a href="https://wa.me/61430046850?text=Hello%2C%20I%20am%20interested">
+                <a href="https://wa.me/61430046850?text=Hello%2C%20I%20am%20interested">
 
-                  <button className="px-8.5 sm:px-6 py-4 sm:py-3 text-red-600 font-semibold rounded-lg border-2 border-red-600 hover:bg-red-600 hover:text-white shadow-lg hover:scale-105 transform transition-all duration-200 flex items-center justify-center gap-2 text-sm sm:text-base">
+                    <button className="px-8 sm:px-5.5 py-4 sm:py-3 text-red-600 font-semibold rounded-lg border-2 border-red-600 hover:bg-red-600 hover:text-white shadow-lg hover:scale-105 transform transition-all duration-200 flex items-center justify-center gap-2 text-sm sm:text-base whitespace-nowrap">
                     Enquire now
                   </button>
+
                 </a>
 
               </div>
@@ -96,18 +98,20 @@ export default function Services() {
               </h3>
               <div className="text-2xl font-bold text-gray-800 mb-4">AUD 5584</div>
 
-              <div className="flex flex-col sm:flex-row justify-center gap-3 mt-5 mb-4">
+             <div className="flex flex-wrap justify-center gap-3 mt-5 mb-4 w-full">
+
                 <a href="https://advensatravel.com/package/16-days-everest-base-camp-trek-luxury">
-                <button className="px-8  sm:px-6 py-4 sm:py-3.5 bg-gradient-to-b from-red-600 to-green-600 text-white font-semibold rounded-lg shadow-lg hover:scale-105 transform transition-all duration-200 whitespace-nowrap">
+                  <button className="px-8  sm:px-6 py-4 sm:py-3.5 bg-gradient-to-b from-red-600 to-green-600 text-white font-semibold rounded-lg shadow-lg hover:scale-105 transform transition-all duration-200 whitespace-nowrap">
                     View details
                   </button>
                 </a>
 
-               <a href="https://wa.me/61430046850?text=Hello%2C%20I%20am%20interested">
+                <a href="https://wa.me/61430046850?text=Hello%2C%20I%20am%20interested">
 
-                  <button className="px-8.5 sm:px-6 py-4 sm:py-3 text-red-600 font-semibold rounded-lg border-2 border-red-600 hover:bg-red-600 hover:text-white shadow-lg hover:scale-105 transform transition-all duration-200 flex items-center justify-center gap-2 text-sm sm:text-base">
+                  <button className="px-8 sm:px-5.5 py-4 sm:py-3 text-red-600 font-semibold rounded-lg border-2 border-red-600 hover:bg-red-600 hover:text-white shadow-lg hover:scale-105 transform transition-all duration-200 flex items-center justify-center gap-2 text-sm sm:text-base whitespace-nowrap">
                     Enquire now
                   </button>
+
                 </a>
               </div>
             </div>
@@ -123,20 +127,22 @@ export default function Services() {
               </h3>
               <div className="text-2xl font-bold text-gray-800 mb-4">AUD 7280</div>
 
-              <div className="flex flex-col sm:flex-row justify-center gap-3 mt-5 mb-4">
+<div className="flex flex-wrap justify-center gap-3 mt-5 mb-4 w-full">
+
                 <a href="https://advensatravel.com/package/16-days-everest-base-camp-trekelite-service">
-                  <button className="px-8  sm:px-6 py-4 sm:py-3.5 bg-gradient-to-b from-red-600 to-green-600 text-white font-semibold rounded-lg shadow-lg hover:scale-105 transform transition-all duration-200 whitespace-nowrap">
+                  <button className="px-8 sm:px-6 py-4 sm:py-3.5 bg-gradient-to-b from-red-600 to-green-600 text-white font-semibold rounded-lg shadow-lg hover:scale-105 transform transition-all duration-200 whitespace-nowrap">
                     View details
                   </button>
                 </a>
 
                 <a href="https://wa.me/61430046850?text=Hello%2C%20I%20am%20interested">
-
-                  <button className="px-8.5 sm:px-6 py-4 sm:py-3 text-red-600 font-semibold rounded-lg border-2 border-red-600 hover:bg-red-600 hover:text-white shadow-lg hover:scale-105 transform transition-all duration-200 flex items-center justify-center gap-2 text-sm sm:text-base">
+                  <button className="px-8 sm:px-5.5 py-4 sm:py-3 text-red-600 font-semibold rounded-lg border-2 border-red-600 hover:bg-red-600 hover:text-white shadow-lg hover:scale-105 transform transition-all duration-200 flex items-center justify-center gap-2 text-sm sm:text-base whitespace-nowrap">
                     Enquire now
                   </button>
+
                 </a>
               </div>
+
             </div>
           </div>
 

@@ -2,7 +2,7 @@
 
 export default function Trip() {
   return (
-    <section className=" flex items-center justify-center px-4 py-20 bg-[#DEEFF9] text-black">
+    <section className=" flex items-center justify-center px-4 py-10 bg-[#DEEFF9] text-black">
       <div className="max-w-6xl mx-auto w-full">
         {/* Contact Section */}
        

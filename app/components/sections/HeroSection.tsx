@@ -20,7 +20,7 @@ export default function EverestBaseCampTrek() {
   return (
     <section
       id="treks"
-      className="flex flex-col items-center justify-center px-4 py-20 bg-gradient-to-br from-purple-100 via-blue-200 to-green-100 text-black"
+      className="flex flex-col items-center justify-center px-4 pt-20 pb-10 bg-gradient-to-br from-purple-100 via-blue-200 to-green-100 text-black"
     >
       <div className="max-w-6xl w-full mx-auto">
        

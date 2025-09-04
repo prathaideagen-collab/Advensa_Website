@@ -2,7 +2,7 @@
 
 export default function Trekkers() {
     return (
-    <section className=" flex items-center justify-center px-4 py-20 bg-[#D0E9F6] text-black">
+    <section className=" flex items-center justify-center px-4 py-10 bg-[#D0E9F6] text-black">
 
       <div className="max-w-6xl mx-auto w-full">
         
